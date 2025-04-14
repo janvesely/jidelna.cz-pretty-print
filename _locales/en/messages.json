@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Jidelna.cz - Pretty Print",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "A Chrome extension that enhances the print layout of jidelna.cz.",
+    "description": "The description of the extension."
+  },
+  "actionTitle": {
+    "message": "Make jidelna.cz print friendly",
+    "description": "Tooltip for the browser action button."
+  }
+}

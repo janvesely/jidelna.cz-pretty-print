@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Jidelna.cz - Pěkný tisk jídelníčku",
+    "description": "Název rozšíření."
+  },
+  "extensionDescription": {
+    "message": "Rozšíření pro Chrome, které vylepšuje tiskový výstup stránky jidelna.cz.",
+    "description": "Popis rozšíření."
+  },
+  "actionTitle": {
+    "message": "Připravit jídelníček pro tisk",
+    "description": "Popisek tlačítka akce prohlížeče."
+  }
+}
