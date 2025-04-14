@@ -1,0 +1,1 @@
+# jidelna.cz-pretty-print
